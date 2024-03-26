@@ -24,10 +24,10 @@ Neste projeto, estou estudando e experimentando as funcionalidades poderosas da 
 
 Aqui estão alguns exemplos dos mapas impressionantes que você pode criar com este projeto:
 
-![Mapa de Marcadores Personalizados](exemplos/mapa_marcadores_personalizados.png)
+
 *Mapa de Marcadores Personalizados: Destacando locais importantes em uma cidade.*
 
-![Mapa de Dados Geoespaciais](exemplos/mapa_dados_geoespaciais.png)
+
 *Mapa de Dados Geoespaciais: Visualizando dados de tráfego em tempo real.*
 
 ## Contribuição
